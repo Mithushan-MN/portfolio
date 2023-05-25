@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7d35300a.css",
-    "main.js": "/portfolio/static/js/main.1f0c4e70.js",
+    "main.css": "/portfolio/static/css/main.dc2049fe.css",
+    "main.js": "/portfolio/static/js/main.aa86098a.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/cover.jpg": "/portfolio/static/media/cover.9a3de7033aed58b1cddb.jpg",
+    "static/media/proj4.png": "/portfolio/static/media/proj4.cc66e696424943ecd4a3.png",
+    "static/media/proj1.png": "/portfolio/static/media/proj1.11c93147c184dd5459cd.png",
+    "static/media/proj3.png": "/portfolio/static/media/proj3.738bf5bcee52092d5454.png",
+    "static/media/Mithushan_Resume.pdf": "/portfolio/static/media/Mithushan_Resume.3737f53813ff7f3a3057.pdf",
+    "static/media/proj5.png": "/portfolio/static/media/proj5.c82b24b54f361338bc70.png",
+    "static/media/proj2.png": "/portfolio/static/media/proj2.3365a3ca832c05ef4e2e.png",
+    "static/media/proj6.png": "/portfolio/static/media/proj6.a8e2d520c1fa2412c07d.png",
     "static/media/skill.jpeg": "/portfolio/static/media/skill.b85a12f6cc9172d031a4.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.7d35300a.css.map": "/portfolio/static/css/main.7d35300a.css.map",
-    "main.1f0c4e70.js.map": "/portfolio/static/js/main.1f0c4e70.js.map",
+    "main.dc2049fe.css.map": "/portfolio/static/css/main.dc2049fe.css.map",
+    "main.aa86098a.js.map": "/portfolio/static/js/main.aa86098a.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d35300a.css",
-    "static/js/main.1f0c4e70.js"
+    "static/css/main.dc2049fe.css",
+    "static/js/main.aa86098a.js"
   ]
 }
